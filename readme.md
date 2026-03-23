@@ -34,7 +34,7 @@ I am a third-year Computer Applications student with a deep interest in full-sta
 ### 🛠️ Tech Stack
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Java (JDBC), Python (Flask)
-* **Databases:** MySQL, SQLite
+* **Databases:** MySQL
 * **Tools:** VS Code, Eclipse IDE, GitHub
 
 ---
