@@ -49,6 +49,7 @@ I am a third-year Computer Applications student with a deep interest in full-sta
 ### 🐍 Contribution Snake
 ![Snake Animation](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?palette=github-light)
 
+![Snake Animation](https://raw.githubusercontent.com/dhumalsanika34-afk/dhumalsanika34-afk/output/github-snake.svg)
 ---
 
 ### 🌟 Skills
